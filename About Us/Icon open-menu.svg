@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70.08 140">
+    <defs>
+        <style>
+            .cls-2{fill:#b1a2c0}
+        </style>
+    </defs>
+    <title>
+        Icon open-menu
+    </title>
+    <rect x="0.12" width="69.92" height="140" style="fill:#2a174f"/>
+    <rect class="cls-2" x="0.08" y="35" width="70" height="10">
+        <animateTransform class="run1" attributeName="transform" attributeType="XML" type="rotate" from="0 0 35" to="-30 0 35" dur="1s" begin="click" fill="freeze"/>
+    </rect>
+    <path class="cls-2" d="M.08,35"/>
+    <path class="cls-2" d="M0,105"/>
+    <rect class="cls-2" y="65" width="70" height="10"/>
+    <rect class="cls-2" y="95" width="70" height="10">
+        <animateTransform class="run2" attributeName="transform" attributeType="XML" type="rotate" from="0 0 105" to="30 0 105" dur="1s" begin="click" fill="freeze"/>
+    </rect>
+</svg>
